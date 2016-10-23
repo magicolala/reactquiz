@@ -1,2 +1,2 @@
-# GithubReact
-Github with React
+# ReactQuiz
+Simple Quiz App made with ReactJS
